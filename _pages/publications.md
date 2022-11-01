@@ -40,11 +40,25 @@ Thomas Hartvigsen*, **Walter Gerych* (Joint First Author)**, Marzyeh Ghassemi.
 
  ---
 
-## ["Triplet-based Domain Adaptation (Triple-DARE) for Lab-to-field Human Context Recognition."](https://openreview.net/pdf?id=YiNr41ICIrr)
-Abdulaziz Alajaji, Walter Gerych, Luke Buquicchio, Kavin Chandrasekaran, Hamid Mansoor,
-Emmanuel Agu, Elke Rundensteiner
+## ["Triplet-based Domain Adaptation (Triple-DARE) for Lab-to-field Human Context Recognition."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9767432)
+Abdulaziz Alajaji, **Walter Gerych**, Luke Buquicchio, Kavin Chandrasekaran, Hamid Mansoor,
+Emmanuel Agu, Elke Rundensteiner. 
 
-**Workshop on Epidemiology meets Data Mining and Knowledge Discovery, KDD**, 2022.
+**IEEE PerCom Industry Track**, 2022.
+
+---
+
+## [" Recurrent Bayesian Classifier Chains for Exact Multi-Label Classification."](https://proceedings.neurips.cc/paper/2021/file/859bf1416b8b8761c5d588dee78dc65f-Paper.pdf)
+**Walter Gerych**, Tom Hartvigsen, Luke Buquicchio, Emmanuel Agu, Elke Rundensteiner. 
+
+**NeurIPS**, 2021.
+
+---
+
+## [" Recurrent Bayesian Classifier Chains for Exact Multi-Label Classification."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9767432)
+**Walter Gerych**, Tom Hartvigsen, Luke Buquicchio, Emmanuel Agu, Elke Rundensteiner. 
+
+**NeurIPS**, 2021.
 
 ---
 
