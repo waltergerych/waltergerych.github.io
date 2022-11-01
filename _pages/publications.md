@@ -9,8 +9,7 @@ author_profile: true
 
 ## ["Recovering The Propensity Score From Biased Positive Unlabeled Data."](https://doi.org/10.1609/aaai.v36i6.20624)
 **Walter Gerych**, Thomas Hartvigsen, Luke Buquicchio, Emmanuel Agu, Elke Rundensteiner.
-
- **AAAI**, 2022. **Oral spotlight.**
+**AAAI**, 2022. **Oral spotlight.**
 
 [30] **Walter Gerych**, Thomas Hartvigsen, Luke Buquicchio, Emmanuel Agu, Elke Rundensteiner.  ["Robust Recurrent Classifier Chains for Multi-Label Learning with Missing Labels."](https://dl.acm.org/doi/abs/10.1145/3511808.3557438). **CIKM**, 2022.
 
