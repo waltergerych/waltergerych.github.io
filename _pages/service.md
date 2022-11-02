@@ -5,11 +5,9 @@ permalink: /service/
 author_profile: true
 ---
 
-# Service
-
 **Data Science Council, WPI**: 2018-Current
-    - President: 2021-Current
-    - Vice President: 2020-2021
+- President: 2021-Current
+- Vice President: 2020-2021
 Develop and execute community building and peer-support endevours 
 
 **PhD Peer Mentor, WPI**: 2020 - Current
