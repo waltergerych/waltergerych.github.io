@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD candidate at Worcester Polytechnic Institute (WPI). I’m passionate about machine learning research and applications, and I always enjoy learning about new domains and use cases. Most of my research focuses on missing and biased labels, generative modeling and human activity recognition. However, though exploring many different domains I also have experience in algorithmic fairness, anomaly detection, data visualization, open set recognition, domain adaptation, and more. 
+I’m a PhD candidate at Worcester Polytechnic Institute (WPI). I’m passionate about machine learning research and applications, and I always enjoy learning about new domains and use cases. Most of my research focuses on missing and biased labels, generative modeling and human activity recognition. I also have experience in algorithmic fairness, anomaly detection, data visualization, open set recognition, domain adaptation, and more. 
+
+<!-- However, through exploring many different domains I also have experience in algorithmic fairness, anomaly detection, data visualization, open set recognition, domain adaptation, and more.  -->
 
 In my free time I enjoy visitng parks, exploring museums, painting, 3D printing, and trying to keep my houseplants alive. 
 
