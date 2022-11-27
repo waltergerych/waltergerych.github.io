@@ -10,14 +10,14 @@ I am passionate about the importance of community support in research and academ
 A selection of the outcomes of this effort is shown below. 
 
 **Data Science Council, WPI**: 2018-Current
-    - President: 2021-Current
-    - Vice President: 2020-2021
+- President: 2021-Current
+- Vice President: 2020-2021
 - Develop and execute community building and peer-support endevours
 - Organize weekly department social hours and community events 
 - Represent DS student body in department steering committee
 
 **PhD Peer Mentor, WPI**: 2020 - Current
-    - Peer mentor to first-year DS PhD students at WPI 
+- Peer mentor to first-year DS PhD students at WPI 
 
 **Developed and ran workshop on Creating Engaging Research Presentations for Graduate Students, WPI**: 2022
 
