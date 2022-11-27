@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-I am passionate about the importance of community support in research and academia. During my PhD, I have worked to foster social bonds and collaboration within WPI's Data Science department. I believe that an open and supportive learning environment is invaluable, especially for individuals in demographics underrepresented in STEM. 
+I am passionate about the importance of community support in research and academia. During my PhD I have worked to foster social bonds and collaboration within WPI's Data Science department. I believe that an open and supportive learning environment is invaluable, especially for individuals in demographics underrepresented in STEM. 
 
 A selection of my efforts is shown below. 
 
