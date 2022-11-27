@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, ICMLA, and ICSC.
+
+---
+
 ## ["Recovering The Propensity Score From Biased Positive Unlabeled Data."](https://doi.org/10.1609/aaai.v36i6.20624)
 **Walter Gerych**, Thomas Hartvigsen, Luke Buquicchio, Emmanuel Agu, Elke Rundensteiner.
 
