@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD candidate at Worcester Polytechnic Institute (WPI). My interests are machine learning
+I’m a PhD candidate at Worcester Polytechnic Institute (WPI), advised by Professor Rundensteiner and Professor Emmanuel Agu. I am part of [DAISY Lab](https://daisy.wpi.edu/) and the [WASH Research Group](https://www.wpi.edu/news/wpi-secures-28-million-develop-smartphone-app-help-assess-health-soldiers).  My interests are machine learning
 research and applications, and I always enjoy learning about new domains and use cases. Most of
 my research focuses on missing and biased labels, generative modeling, and human activity
 recognition. I also have experience in algorithmic fairness, anomaly detection, data visualization,
