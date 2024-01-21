@@ -12,8 +12,7 @@ I’m a postdoctoral associate at MIT CSAIL in the [Healthy ML lab](https://heal
 recognition for mobile healthcare. I also have experience in algorithmic fairness, anomaly detection, data visualization,
 open set recognition, domain adaptation, and more. 
 
-In my free time I enjoy visiting new places, making clothes, painting, 3D printing, and trying to
-keep my houseplants alive.
+In my free time I enjoy visiting new places, making clothes, painting, 3D printing, and trying to keep my houseplants alive.
 
 
 
