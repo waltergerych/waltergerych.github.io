@@ -7,6 +7,74 @@ author_profile: true
 
 I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, ICMLA, and ICSC.
 
+Certainly! Here are your more recent publications formatted in Markdown:
+
+---
+
+## ["Who Knows the Answer? Finding the Best Model & Prompt Using Confidence-Based Search."](https://research.ibm.com/publications/who-knows-the-answer-finding-the-best-model-and-prompt-for-each-query-using-confidence-based-search#)
+**Walter Gerych**, Yara Rizk, Vatche Isahagian, Vinod Muthusamy, Evelyn Duesterwald, Praveen Venkateswaran.  
+**(To Appear in) AAAI, 2024.**
+
+---
+
+## ["Amalgamating Multi-Task Models with Heterogeneous Architectures."](#)
+Jidapa Thadajarassiri, **Walter Gerych**, Xiangnan Kong, Elke Rundensteiner.  
+**AAAI, 2024.**
+
+---
+
+## ["Debiasing Pretrained Generative Models By Uniformly Sampling Semantic Attributes."](https://proceedings.neurips.cc/paper_files/paper/2023/file/8d7060b2ee6ff728692398783e3d59d1-Paper-Conference.pdf)
+**Walter Gerych**, Kevin Hickey, Luke Buquicchio, Kavin Chandrasekaran, Abdulaziz Alajaji, Emmanuel Agu, Elke Rundensteiner.  
+**NeurIPS, 2023.**
+
+---
+
+## ["Stabilizing Adversarial Training for Generative Networks."](https://ieeexplore.ieee.org/abstract/document/10386654)
+**Walter Gerych***, Kevin Hickey* (Joint First Author), Thomas Hartvigsen, Luke Buquicchio, Abdulaziz Alajaji, Kavin Chandrasekaran, Hamid Mansoor, Emmanuel Agu, Elke Rundensteiner.  
+**IEEE Big Data MLDB, 2023.**
+
+---
+
+## ["Population-Level Visual Analytics of Smartphone Sensed Health Using Community Phenotypes."](https://ieeexplore.ieee.org/abstract/document/10337098)
+Hamid Mansoor, **Walter Gerych**, Abdulaziz Alajaji, Luke Buquicchio, Kavin Chandrasekaran, Emmanuel Agu, Elke Rundensteiner.  
+**IEEE ICHI, 2023.**
+
+---
+
+## ["Adversarial Human Context Recognition: Evasion Attacks and Defenses."](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5xL774wAAAAJ&sortby=pubdate&citation_for_view=5xL774wAAAAJ:QIV2ME_5wuYC)
+Abdulaziz Alajaji, **Walter Gerych**, Kavin Chandrasekaran, Luke Buquicchio, Emmanuel Agu, Elke Rundensteiner.  
+**IEEE COMPSAC, 2023.**
+
+---
+
+## ["Knowledge Amalgamation for Multi-Label Classification via Label Dependency Transfer."](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5xL774wAAAAJ&sortby=pubdate&citation_for_view=5xL774wAAAAJ:9ZlFYXVOiuMC)
+Jidapa Thadajarassiri, Thomas Hartvigsen, **Walter Gerych**, Xiangnan Kong, Elke Rundensteiner.  
+**AAAI, 2023. Oral spotlight.**
+
+---
+
+## ["Domain Adaptation Methods for Lab-to-Field Human Context Recognition."](https://www.mdpi.com/1424-8220/23/6/3081)
+Abdulaziz Alajaji, **Walter Gerych**, Luke Buquicchio, Kavin Chandrasekaran, Hamid Mansoor, Emmanuel Agu, Elke Rundensteiner.  
+**Sensors 23(6), 2023.**
+
+---
+
+## ["INPHOVIS: Interactive Visual Analytics For Smartphone-Based Digital Phenotyping."](https://www.sciencedirect.com/science/article/pii/S2468502X23000025)
+Hamid Mansoor, **Walter Gerych**, Abdulaziz Alajaji, Luke Buquicchio, Kavin Chandrasekaran, Emmanuel Agu, Elke Rundensteiner, Angela Incollingo Rodriguez.  
+**Visual Informatics, 2023.**
+
+---
+
+## ["HAR-CTGAN: A Mobile Sensor Data Generation Tool for Human Activity Recognition."](https://ieeexplore.ieee.org/abstract/document/10020848/)
+Joshua DeOliveira, **Walter Gerych**, Aruzhan Koshkarova, Elke Rundensteiner, Emmanuel Agu.  
+**IEEE Big Data 4th Special Session on HealthCare Data, 2022.**
+
+---
+
+## ["Text Generation to Aid Depression Detection: A Comparative Study of Conditional Sequence GANs."](https://ieeexplore.ieee.org/abstract/document/10020224)
+ML Tlachac, **Walter Gerych**, Kratika Agrawal, Benjamin Litterer, Nicholas Jurovich, Saitheeraj Thatigotla, Jidapa Thadajarassiri, Elke Rundensteiner.  
+**IEEE Big Data 4th Special Session on HealthCare Data, 2022.**
+
 ---
 
 ## ["Recovering The Propensity Score From Biased Positive Unlabeled Data."](https://doi.org/10.1609/aaai.v36i6.20624)
