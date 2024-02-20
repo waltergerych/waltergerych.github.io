@@ -7,8 +7,6 @@ author_profile: true
 
 I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, ICMLA, and ICSC.
 
-Certainly! Here are your more recent publications formatted in Markdown:
-
 ---
 
 ## ["Who Knows the Answer? Finding the Best Model & Prompt Using Confidence-Based Search."](https://research.ibm.com/publications/who-knows-the-answer-finding-the-best-model-and-prompt-for-each-query-using-confidence-based-search#)
