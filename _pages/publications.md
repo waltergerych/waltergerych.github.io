@@ -19,7 +19,7 @@ Certainly! Here are your more recent publications formatted in Markdown:
 
 ## ["Amalgamating Multi-Task Models with Heterogeneous Architectures."](#)
 Jidapa Thadajarassiri, **Walter Gerych**, Xiangnan Kong, Elke Rundensteiner.  
-**AAAI, 2024.**
+**(To Appear in) AAAI, 2024.**
 
 ---
 
