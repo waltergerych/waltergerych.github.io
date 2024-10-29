@@ -14,7 +14,7 @@ I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, IC
 <!-- Paper 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="link-to-figure1.jpg" alt="Paper Figure" width="150px">
+    <img src="images\bio-photo-2.jpg" alt="Paper Figure" width="150px">
   </div>
   <div>
     <strong><a href="https://research.ibm.com/publications/who-knows-the-answer-finding-the-best-model-and-prompt-for-each-query-using-confidence-based-search#">Who Knows the Answer? Finding the Best Model & Prompt Using Confidence-Based Search.</a></strong><br>
