@@ -3,6 +3,23 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+
+<!-- Paper 1 -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="link-to-figure1.jpg" alt="Paper Figure" width="150px">
+  </div>
+  <div>
+    <strong><a href="link-to-paper1.pdf">Title of Paper 1</a></strong><br>
+    <em>Author Name(s)</em><br>
+    <strong>Conference/Journal Name</strong>, Year.<br>
+    <a href="link-to-code-repo1" target="_blank">[Code]</a> |
+    <a href="link-to-paper1.pdf" target="_blank">[PDF]</a> |
+    <a href="link-to-arxiv1" target="_blank">[ArXiv]</a>
+  </div>
+</div>
+
+
 ---
 
 I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, ICMLA, and ICSC.
