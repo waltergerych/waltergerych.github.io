@@ -14,12 +14,29 @@ I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, IC
 <!-- Paper 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\bend_fig.png" alt="Paper Figure" width="150px">
+  </div>
+  <div>
+    <strong><a href="">BendVLM: Test-Time Debiasing of Vision-Language
+Embeddings</a></strong><br>
+    **Walter Gerych**, Haoran Zhang, Kimia Hamidieh, Eileen Pan, Maanas Sharma, Thomas Hartvigsen, Marzyeh Ghassemi.<br>
+    **(To Appear in) NeurIPS, 2024.**
+  </div>
+</div>
+
+---
+
+## Publications
+
+<!-- Paper 1 -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
     <img src="..\images\bio-photo-2.jpg" alt="Paper Figure" width="150px">
   </div>
   <div>
     <strong><a href="https://research.ibm.com/publications/who-knows-the-answer-finding-the-best-model-and-prompt-for-each-query-using-confidence-based-search#">Who Knows the Answer? Finding the Best Model & Prompt Using Confidence-Based Search.</a></strong><br>
     **Walter Gerych**, Yara Rizk, Vatche Isahagian, Vinod Muthusamy, Evelyn Duesterwald, Praveen Venkateswaran.<br>
-    **(To Appear in) AAAI, 2024.**
+    **AAAI, 2024.**
   </div>
 </div>
 
