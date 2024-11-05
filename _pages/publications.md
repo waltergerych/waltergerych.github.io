@@ -31,7 +31,7 @@ Embeddings</a></strong><br>
 <!-- Paper 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..images\aaai_uncert_2024.png" alt="Paper Figure" width="300px">
+    <img src="..\images\aaai_uncert_2024.png" alt="Paper Figure" width="300px">
   </div>
   <div>
     <strong><a href="https://research.ibm.com/publications/who-knows-the-answer-finding-the-best-model-and-prompt-for-each-query-using-confidence-based-search#">Who Knows the Answer? Finding the Best Model & Prompt Using Confidence-Based Search.</a></strong><br>
@@ -47,6 +47,8 @@ Embeddings</a></strong><br>
   <div style="flex-shrink: 0; margin-right: 15px;">
     <img src="..\images\multi_task_aaai_2024.png" alt="Paper Figure" width="300px">
   </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div>
     <strong><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29459">Amalgamating Multi-Task Models with Heterogeneous Architectures.</a></strong><br>
     Jidapa Thadajarassiri, <strong>Walter Gerych</strong>, Xiangnan Kong, Elke Rundensteiner.<br>
