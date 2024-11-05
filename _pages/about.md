@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "About Me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 ## Research Interests
 My research focuses on **Trustworthy AI and ML**, such as **model debiasing** and **uncertainty quantification**. 
 
-## About Me
+## Bio
 I’m a postdoctoral associate at MIT CSAIL in the [Healthy ML lab](https://healthyml.org/), hosted by [Professor Marzyeh Ghassemi](https://healthyml.org/marzyeh/). Prior to my postdoc, I earned my PhD at Worcester Polytechnic Institute (WPI), advised by Professor Rundensteiner and Professor Emmanuel Agu. At WPI I was part of [DAISY Lab](https://daisy.wpi.edu/) and the [WASH Research Group](https://www.wpi.edu/news/wpi-secures-28-million-develop-smartphone-app-help-assess-health-soldiers). 
 
  <!-- My research interests broadly relate to machine learning for missing and biased labels, generative modeling, and human activity
