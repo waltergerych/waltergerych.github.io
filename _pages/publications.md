@@ -7,9 +7,10 @@ author_profile: true
 
 I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, ICMLA, and ICSC.
 
+I list a select sample of my publications below. For a full list, please see my ["Google Scholar page"](https://scholar.google.com/citations?hl=en&user=5xL774wAAAAJ&view_op=list_works&sortby=pubdate).
 ---
 
-## Publications
+## Select Publications
 
 <!-- Paper 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -155,6 +156,19 @@ Embeddings</a></strong><br>
     <strong><a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.3">Positive Unlabeled Learning with a Sequential Selection Bias.</a></strong><br>
    <strong>Walter Gerych</strong>, Thomas Hartvigsen, Luke Buquicchio, Emmanuel Agu, Elke Rundensteiner.<br>
     <strong>SDM, 2022.</strong>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\multi_label_rcc.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://proceedings.neurips.cc/paper/2021/file/859bf1416b8b8761c5d588dee78dc65f-Paper.pdf">Recurrent Bayesian Classifier Chains for Exact Multi-Label Classification.</a></strong><br>
+   <strong>Walter Gerych</strong>, Tom Hartvigsen, Luke Buquicchio, Emmanuel Agu, Elke Rundensteiner.<br>
+    <strong>NeurIPS, 2021.</strong>
   </div>
 </div>
 
