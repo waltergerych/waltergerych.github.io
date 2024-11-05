@@ -14,7 +14,7 @@ I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, IC
 <!-- Paper 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\bend_fig.png" alt="Paper Figure" width="150px">
+    <img src="..\images\bend_fig.png" alt="Paper Figure" width="300px">
   </div>
   <div>
     <strong><a href="">BendVLM: Test-Time Debiasing of Vision-Language
@@ -31,7 +31,7 @@ Embeddings</a></strong><br>
 <!-- Paper 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..images\aaai_uncert_2024.png" alt="Paper Figure" width="150px">
+    <img src="..images\aaai_uncert_2024.png" alt="Paper Figure" width="300px">
   </div>
   <div>
     <strong><a href="https://research.ibm.com/publications/who-knows-the-answer-finding-the-best-model-and-prompt-for-each-query-using-confidence-based-search#">Who Knows the Answer? Finding the Best Model & Prompt Using Confidence-Based Search.</a></strong><br>
@@ -45,7 +45,7 @@ Embeddings</a></strong><br>
 <!-- Paper 2 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\multi_task_aaai_2024.png" alt="Paper Figure" width="150px">
+    <img src="..\images\multi_task_aaai_2024.png" alt="Paper Figure" width="300px">
   </div>
   <div>
     <strong><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29459">Amalgamating Multi-Task Models with Heterogeneous Architectures.</a></strong><br>
@@ -59,7 +59,7 @@ Embeddings</a></strong><br>
 <!-- Paper 3 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\neurips_gan_debiasing.png" alt="Paper Figure" width="150px">
+    <img src="..\images\neurips_gan_debiasing.png" alt="Paper Figure" width="300px">
   </div>
   <div>
     <strong><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/8d7060b2ee6ff728692398783e3d59d1-Paper-Conference.pdf">Debiasing Pretrained Generative Models By Uniformly Sampling Semantic Attributes.</a></strong><br>
