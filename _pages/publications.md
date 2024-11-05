@@ -42,6 +42,45 @@ Embeddings</a></strong><br>
 
 ---
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\so_b_it.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://ojs.aaai.org/index.php/AIES/article/view/31657">Identifying implicit social biases in vision-language models.</a></strong><br>
+    Kimia Hamidieh, Haoran Zhang, <strong>Walter Gerych</strong>, Thomas Hartvigsen, Marzyeh Ghassemi.<br>
+    <strong>AIES, 2024.</strong>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\taxi.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://arxiv.org/pdf/2404.15004">TAXI: Evaluating Categorical Knowledge Editing for Language Models.</a></strong><br>
+    Derek Powell, <strong>Walter Gerych</strong>, Thomas Hartvigsen.<br>
+    <strong>ACL, 2024.</strong>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\temp_noise.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://arxiv.org/pdf/2402.04398">Learning from Time Series under Temporal Label Noise.</a></strong><br>
+    Sujay Nagaraj, <strong>Walter Gerych</strong>, Sana Tonekaboni, Anna Goldenberg,Berk Ustun, Thomas Hartvigsen.<br>
+    <strong>Preprint, 2024.</strong>
+  </div>
+</div>
+
+---
+
 <!-- Paper 2 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
