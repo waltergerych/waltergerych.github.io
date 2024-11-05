@@ -11,11 +11,13 @@ redirect_from:
 ## Research Interests
 My research focuses on **Trustworthy AI and ML**, such as **model debiasing** and **uncertainty quantification**. 
 
-I’m a postdoctoral associate at MIT CSAIL in the [Healthy ML lab](https://healthyml.org/), hosted by [Professor Marzyeh Ghassemi](https://healthyml.org/marzyeh/). Prior to my postdoc, I earned my PhD at Worcester Polytechnic Institute (WPI), advised by Professor Rundensteiner and Professor Emmanuel Agu. At WPI I was part of [DAISY Lab](https://daisy.wpi.edu/) and the [WASH Research Group](https://www.wpi.edu/news/wpi-secures-28-million-develop-smartphone-app-help-assess-health-soldiers).  My research interests broadly relate to machine learning for missing and biased labels, generative modeling, and human activity
+I’m a postdoctoral associate at MIT CSAIL in the [Healthy ML lab](https://healthyml.org/), hosted by [Professor Marzyeh Ghassemi](https://healthyml.org/marzyeh/). Prior to my postdoc, I earned my PhD at Worcester Polytechnic Institute (WPI), advised by Professor Rundensteiner and Professor Emmanuel Agu. At WPI I was part of [DAISY Lab](https://daisy.wpi.edu/) and the [WASH Research Group](https://www.wpi.edu/news/wpi-secures-28-million-develop-smartphone-app-help-assess-health-soldiers). 
+
+ <!-- My research interests broadly relate to machine learning for missing and biased labels, generative modeling, and human activity
 recognition for mobile healthcare. I also have experience in algorithmic fairness, anomaly detection, data visualization,
 open set recognition, domain adaptation, and more. 
 
-In my free time I enjoy visiting new places, making clothes, painting, 3D printing, and trying to keep my houseplants alive.
+In my free time I enjoy visiting new places, making clothes, painting, 3D printing, and trying to keep my houseplants alive. -->
 
 
 
