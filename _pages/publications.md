@@ -123,7 +123,7 @@ Embeddings</a></strong><br>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\big_data_support_gan_fig.png" alt="Paper Figure" width="300px">
+    <img src="..\images\robust_recurrent.png" alt="Paper Figure" width="300px">
   </div>
   <div>
     <strong><a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557438">Robust Recurrent Classifier Chains for Multi-Label Learning with Missing Labels.</a></strong><br>
@@ -134,6 +134,31 @@ Embeddings</a></strong><br>
 
 ---
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\stophop.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://arxiv.org/abs/2208.09795">Stop&Hop: Early Classification of Irregular Time Series.</a></strong><br>
+   Thomas Hartvigsen, <strong>Walter Gerych</strong>, Jidapa Thadajarassiri, Xiangnan Kong, Elke Rundensteiner.<br>
+    <strong>CIKM, 2022.</strong>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\seq_pu.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.3">Positive Unlabeled Learning with a Sequential Selection Bias.</a></strong><br>
+   <strong>Walter Gerych</strong>, Thomas Hartvigsen, Luke Buquicchio, Emmanuel Agu, Elke Rundensteiner.<br>
+    <strong>SDM, 2022.</strong>
+  </div>
+</div>
+
+---
 
 <!-- Continue with more papers -->
 
