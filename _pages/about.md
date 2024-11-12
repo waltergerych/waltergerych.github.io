@@ -11,7 +11,7 @@ redirect_from:
 **I'm on the job market in the 2023-2024 academic year!** 
 
 ## Research Interests
-My research is on **Trustworthy Machine Learning**, with a focus on debiasing large pretrained models using efficient and minimally invasive approaches so as to maintain downstream performance. 
+My research is on **Trustworthy Machine Learning**, with a focus on debiasing large pretrained models using efficient and minimally invasive approaches that maintain downstream performance. 
 
 ## Bio
 I’m a postdoctoral associate at MIT CSAIL in the [Healthy ML lab](https://healthyml.org/), hosted by [Professor Marzyeh Ghassemi](https://healthyml.org/marzyeh/). Prior to my postdoc, I earned my PhD at Worcester Polytechnic Institute (WPI), advised by Professor Rundensteiner and Professor Emmanuel Agu. At WPI I was part of [DAISY Lab](https://daisy.wpi.edu/) and the [WASH Research Group](https://www.wpi.edu/news/wpi-secures-28-million-develop-smartphone-app-help-assess-health-soldiers). 
