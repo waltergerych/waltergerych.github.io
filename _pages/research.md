@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**I'm on the job market in the 2023-2024 academic year!**  
+**I'm on the job market in the 2024-2025 academic year!**  
 
 I research machine learning and AI Trusworthiness, with a focus on making models less biased and more reliable. 
 
