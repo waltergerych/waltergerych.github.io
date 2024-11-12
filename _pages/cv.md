@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-**I'm on the job market in the 2024-2025 academic year!**
-
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/gerych_cv_fall_2024.pdf.pdf" width="600" height="700" type='application/pdf'>
+**I'm on the job market in the 2024-2025 academic year!**
+
+<embed src="{{ site.baseurl }}/files/gerych_cv_fall_2024.pdf" width="600" height="700" type='application/pdf'>
 
 <!-- Education
 ======
