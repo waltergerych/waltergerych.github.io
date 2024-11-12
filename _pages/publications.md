@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+**I'm on the job market in the 2023-2024 academic year!**  
+
 I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, ICMLA, and ICSC.
 
 I list a select sample of my publications below. For a full list, please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=5xL774wAAAAJ&view_op=list_works&sortby=pubdate).
