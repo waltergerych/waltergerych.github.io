@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**I'm on the job market in the 2023-2024 academic!** 
+
 ## Research Interests
 My research focuses on **Trustworthy AI and ML**, such as **Model Debiasing** and **Uncertainty Quantification**. 
 
@@ -17,6 +19,14 @@ I’m a postdoctoral associate at MIT CSAIL in the [Healthy ML lab](https://heal
  <!-- My research interests broadly relate to machine learning for missing and biased labels, generative modeling, and human activity
 recognition for mobile healthcare. I also have experience in algorithmic fairness, anomaly detection, data visualization,
 open set recognition, domain adaptation, and more.  -->
+
+## Recent News
+
+- **Nov 24:** I will be presenting my work on debiasing foundation models at *Google's Theory and Practice of Foundation Model Workshop.*
+- **Oct 24:** First author [paper on debiasing vision language models](https://web3.arxiv.org/pdf/2411.04420) accepted @ NeurIPS 2024. 
+- **Sep 24:** Leading a [SERC Group](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/serc-scholars-program/) on Bias in Clinical LLMs @MIT.
+- **Aug 24:** Coauthored [paper on categorical knowledge editing](https://aclanthology.org/2024.findings-acl.906/) published @ ACL 24. 
+- **July 24:** Coauthored [paper on auditing VLMs for societal bias](https://ojs.aaai.org/index.php/AIES/article/view/31657) accepted @ AIES 24. Congrats to first author Kimia Hamidieh and collaborators Haoran Zhang, Thomas Hartvigsen and Marzyeh Ghassemi! 
 
 ## Misc
 In my free time I enjoy visiting new places, making clothes, painting, 3D printing, and trying to keep my houseplants alive.
