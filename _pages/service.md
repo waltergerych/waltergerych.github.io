@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-**I'm on the job market in the 2024-2025 academic year!** 
+**I am currently on the academic job market for faculty positions in the 2024-2025 cycle!**
 
 ## Conferences and Workshops
 

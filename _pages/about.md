@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I'm on the job market in the 2024-2025 academic year!** 
+**I am currently on the academic job market for faculty positions in the 2024-2025 cycle!**
 
 ## Research Interests
 My research is on **Trustworthy Machine Learning**, with a focus on debiasing large pretrained models using efficient and minimally invasive approaches that maintain downstream performance. 

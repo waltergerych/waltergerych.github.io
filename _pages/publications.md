@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**I'm on the job market in the 2024-2025 academic year!**  
+**I am currently on the academic job market for faculty positions in the 2024-2025 cycle!**
 
 I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, ICMLA, and ICSC.
 

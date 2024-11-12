@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**I'm on the job market in the 2024-2025 academic year!**
+**I am currently on the academic job market for faculty positions in the 2024-2025 cycle!**
 
 <embed src="{{ site.baseurl }}/files/gerych_cv_fall_2024.pdf" width="600" height="700" type='application/pdf'>
 
