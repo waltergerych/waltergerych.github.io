@@ -6,6 +6,8 @@ author_profile: true
 
 ---
 
+**I'm on the job market in the 2023-2024 academic year!** 
+
 I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, ICMLA, and ICSC.
 
 ---

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I'm on the job market in the 2023-2024 academic!** 
+**I'm on the job market in the 2023-2024 academic year!** 
 
 ## Research Interests
 My research focuses on **Trustworthy AI and ML**, such as **Model Debiasing** and **Uncertainty Quantification**. 
