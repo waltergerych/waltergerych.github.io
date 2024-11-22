@@ -7,7 +7,8 @@ author_profile: true
 
 **I am currently on the academic job market for faculty positions in the 2024-2025 cycle!**
 
-I research machine learning and AI Trusworthiness, with a focus on making models less biased and more reliable. 
+I research machine learning and AI Trusworthiness, with a focus on  methods that are non-destructive and minimally invasive. This way we can do things like remove spurious correlations or add robust uncertainty estimates without
+compromising downstream model performance.
 
 Pretrained generative models like ChatGPT have revolutionized the way we do machine learning and are being used in countless fields. But these models have learned biased and spurious correlations that result in real harm --- such as language models associating Black individuals with extremely negative traits and recommending them lower-paying jobs when integrated into job application systems. These models are also poorly calibrated, meaning that they are very confident in their responses even when they are incorrect. My work focuses on fixing these spurious correlations and assigning meaningful uncertainty measures to their predictions, resulting in fairer and more trustworthy systems. 
 
