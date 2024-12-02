@@ -11,7 +11,7 @@ redirect_from:
 
 **I am currently on the academic job market for faculty positions in the 2024-2025 cycle!**
 
-<embed src="{{ site.baseurl }}/files/gerych_cv_fall_2024.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/Walter_Gerych_CV.pdf" width="600" height="700" type='application/pdf'>
 
 <!-- Education
 ======
