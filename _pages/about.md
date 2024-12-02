@@ -21,7 +21,7 @@ recognition for mobile healthcare. I also have experience in algorithmic fairnes
 open set recognition, domain adaptation, and more.  -->
 
 ## Recent News
-
+- **Nov 24:** Coauthored [Primers paper](https://www.nature.com/articles/s43586-024-00371-x) published @ Nature Reviews Methods Primers. 
 - **Nov 24:** Presented my work on debiasing foundation models at *Google's Theory and Practice of Foundation Model Workshop.*
 - **Oct 24:** Invited to be the Senior Area Chair for the Models and Methods track at CHIL 24. 
 - **Oct 24:** First author [paper on debiasing vision language models](https://web3.arxiv.org/pdf/2411.04420) accepted @ NeurIPS 2024. 
