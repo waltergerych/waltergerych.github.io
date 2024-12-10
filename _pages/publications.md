@@ -13,6 +13,35 @@ I list a select sample of my publications below. For a full list, please see my 
 
 ---
 
+<!-- Paper 1 -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\perturb.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="">Mapping from Meaning: Addressing the Miscalibration of Prompt-Sensitive Language Models</a></strong><br>
+    Kyle Cox, Jiawei Xu, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong Chen, <strong>Walter Gerych</strong>, Ying Ding.<br>
+    <strong>(To Appear in) AAAI, 2025.</strong>
+  </div>
+</div>
+
+---
+
+
+<!-- Paper 1 -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\ntk.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="">The Surprising Effectiveness of Infinite-Width NTKs for Characterizing and Improving Model Training</a></strong><br>
+    Joshua DeOliveira, <strong>Walter Gerych</strong>, Elke Rundensteiner.<br>
+    <strong>(To Appear in) AAAI, 2025.</strong>
+  </div>
+</div>
+
+---
+
 ## Select Publications
 
 <!-- Paper 1 -->
@@ -21,14 +50,15 @@ I list a select sample of my publications below. For a full list, please see my 
     <img src="..\images\bend_fig.png" alt="Paper Figure" width="300px">
   </div>
   <div>
-    <strong><a href="">BendVLM: Test-Time Debiasing of Vision-Language
+    <strong><a href="https://arxiv.org/pdf/2411.04420">BendVLM: Test-Time Debiasing of Vision-Language
 Embeddings</a></strong><br>
     <strong>Walter Gerych</strong>, Haoran Zhang, Kimia Hamidieh, Eileen Pan, Maanas Sharma, Thomas Hartvigsen, Marzyeh Ghassemi.<br>
-    <strong>(To Appear in) NeurIPS, 2024.</strong>
+    <strong>NeurIPS, 2024.</strong>
   </div>
 </div>
 
 ---
+
 
 <!-- Paper 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
