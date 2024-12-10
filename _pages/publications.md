@@ -59,6 +59,22 @@ Embeddings</a></strong><br>
 
 ---
 
+<!-- Paper 1 -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\ml4h_2024.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://arxiv.org/pdf/2411.10686">MaskMedPaint: Masked Medical Image Inpainting with Diffusion
+Models for Mitigation of Spurious Correlations
+</a></strong><br>
+    Qixuan Jin, <strong>Walter Gerych</strong>, Marzyeh Ghassemi.<br>
+    <strong>ML4H Findings Track, 2024.</strong>
+  </div>
+</div>
+
+---
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
     <img src="..\images\so_b_it.png" alt="Paper Figure" width="300px">

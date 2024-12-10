@@ -21,8 +21,9 @@ recognition for mobile healthcare. I also have experience in algorithmic fairnes
 open set recognition, domain adaptation, and more.  -->
 
 ## Recent News
+- **Dec 24:** Presenting our work on [debiasing vision-language models](https://web3.arxiv.org/pdf/2411.04420) at NeurIPS, and coauthored work on [using generative models ot mitigate spurious correlations](https://arxiv.org/pdf/2411.10686) at ML4H.
 - **Dec 24:** Two coauthored papers accepted to AAAI 2025! 
-- **Nov 24:** Coauthored [Primers paper](https://www.nature.com/articles/s43586-024-00371-x) published @ Nature Reviews Methods Primers. 
+- **Nov 24:** Coauthored [paper](https://www.nature.com/articles/s43586-024-00371-x) published @ Nature Reviews Methods Primers. 
 - **Nov 24:** Presented my work on debiasing foundation models at *Google's Theory and Practice of Foundation Model Workshop.*
 - **Oct 24:** Invited to be the Senior Area Chair for the Models and Methods track at CHIL 24. 
 - **Oct 24:** First author [paper on debiasing vision language models](https://web3.arxiv.org/pdf/2411.04420) accepted @ NeurIPS 2024. 
@@ -42,6 +43,22 @@ open set recognition, domain adaptation, and more.  -->
 Embeddings</a></strong><br>
     <strong>Walter Gerych</strong>, Haoran Zhang, Kimia Hamidieh, Eileen Pan, Maanas Sharma, Thomas Hartvigsen, Marzyeh Ghassemi.<br>
     <strong>(To Appear in) NeurIPS, 2024.</strong>
+  </div>
+</div>
+
+---
+
+<!-- Paper 1 -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\ml4h_2024.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://arxiv.org/pdf/2411.10686">MaskMedPaint: Masked Medical Image Inpainting with Diffusion
+Models for Mitigation of Spurious Correlations
+</a></strong><br>
+    Qixuan Jin, <strong>Walter Gerych</strong>, Marzyeh Ghassemi.<br>
+    <strong>ML4H Findings Track, 2024.</strong>
   </div>
 </div>
 
