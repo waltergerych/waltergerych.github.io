@@ -11,6 +11,8 @@ I have first-author publications in NeurIPS, AAAI, SDM, CIKM, AIES, Big Data, IC
 
 I list a select sample of my publications below. For a full list, please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=5xL774wAAAAJ&view_op=list_works&sortby=pubdate).
 
+## Select Publications
+
 ---
 
 <!-- Paper 1 -->
@@ -42,8 +44,6 @@ I list a select sample of my publications below. For a full list, please see my 
 
 ---
 
-## Select Publications
-
 <!-- Paper 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
@@ -54,21 +54,6 @@ I list a select sample of my publications below. For a full list, please see my 
 Embeddings</a></strong><br>
     <strong>Walter Gerych</strong>, Haoran Zhang, Kimia Hamidieh, Eileen Pan, Maanas Sharma, Thomas Hartvigsen, Marzyeh Ghassemi.<br>
     <strong>NeurIPS, 2024.</strong>
-  </div>
-</div>
-
----
-
-
-<!-- Paper 1 -->
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\aaai_uncert_2024.png" alt="Paper Figure" width="300px">
-  </div>
-  <div>
-    <strong><a href="https://research.ibm.com/publications/who-knows-the-answer-finding-the-best-model-and-prompt-for-each-query-using-confidence-based-search#">Who Knows the Answer? Finding the Best Model & Prompt Using Confidence-Based Search.</a></strong><br>
-    <strong>Walter Gerych</strong>, Yara Rizk, Vatche Isahagian, Vinod Muthusamy, Evelyn Duesterwald, Praveen Venkateswaran.<br>
-    <strong>AAAI, 2024.</strong>
   </div>
 </div>
 
@@ -108,6 +93,20 @@ Embeddings</a></strong><br>
     <strong><a href="https://arxiv.org/pdf/2402.04398">Learning from Time Series under Temporal Label Noise.</a></strong><br>
     Sujay Nagaraj, <strong>Walter Gerych</strong>, Sana Tonekaboni, Anna Goldenberg,Berk Ustun, Thomas Hartvigsen.<br>
     <strong>Preprint, 2024.</strong>
+  </div>
+</div>
+
+---
+
+<!-- Paper 1 -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\aaai_uncert_2024.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://research.ibm.com/publications/who-knows-the-answer-finding-the-best-model-and-prompt-for-each-query-using-confidence-based-search#">Who Knows the Answer? Finding the Best Model & Prompt Using Confidence-Based Search.</a></strong><br>
+    <strong>Walter Gerych</strong>, Yara Rizk, Vatche Isahagian, Vinod Muthusamy, Evelyn Duesterwald, Praveen Venkateswaran.<br>
+    <strong>AAAI, 2024.</strong>
   </div>
 </div>
 
