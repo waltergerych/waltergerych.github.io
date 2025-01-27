@@ -21,7 +21,7 @@ recognition for mobile healthcare. I also have experience in algorithmic fairnes
 open set recognition, domain adaptation, and more.  -->
 
 ## Recent News
-- **Dec 24:** One coauthored paper on [temporal label noise](https://arxiv.org/pdf/2402.04398) accepted to ICLR 2025! 
+- **Jan 25:** One coauthored paper on [temporal label noise](https://arxiv.org/pdf/2402.04398) accepted to ICLR 2025! 
 - **Dec 24:** Presenting our work on [debiasing vision-language models](https://web3.arxiv.org/pdf/2411.04420) at NeurIPS, and coauthored work on [using generative models ot mitigate spurious correlations](https://arxiv.org/pdf/2411.10686) at ML4H.
 - **Dec 24:** Two coauthored papers accepted to AAAI 2025! 
 - **Nov 24:** Coauthored [paper](https://www.nature.com/articles/s43586-024-00371-x) published @ Nature Reviews Methods Primers. 
