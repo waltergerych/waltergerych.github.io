@@ -9,6 +9,7 @@ author_profile: true
 
 ## Conferences and Workshops
 
+- Area Chair for NeurIPS 2025. 
 - Senior Area Chair for CHIL 2024.
 - Organizing Commitee for TS4H@ICLR 2024.
 - Program commitee for AAAI 2024. 
