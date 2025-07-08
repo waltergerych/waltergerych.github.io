@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-**I am currently on the academic job market for faculty positions in the 2024-2025 cycle!**
 
 I research machine learning and AI Trusworthiness, with a focus on  methods that are non-destructive and minimally invasive. This way we can do things like remove spurious correlations or add robust uncertainty estimates without
 compromising downstream model performance.
