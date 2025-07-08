@@ -5,8 +5,6 @@ permalink: /service/
 author_profile: true
 ---
 
-**I am currently on the academic job market for faculty positions in the 2024-2025 cycle!**
-
 ## Conferences and Workshops
 
 - Area Chair for NeurIPS 2025. 
