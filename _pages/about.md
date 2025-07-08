@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-**I am currently on the academic job market for faculty positions in the 2024-2025 cycle!**
 
 ## Research Interests
 My research is on **Trustworthy Machine Learning**, with a focus on debiasing large pretrained models using efficient and minimally invasive approaches that maintain downstream performance. 
 
 ## Bio
-I’m a postdoctoral associate at MIT CSAIL in the [Healthy ML lab](https://healthyml.org/), hosted by [Professor Marzyeh Ghassemi](https://healthyml.org/marzyeh/). Prior to my postdoc, I earned my PhD at Worcester Polytechnic Institute (WPI), advised by Professor Rundensteiner and Professor Emmanuel Agu. At WPI I was part of [DAISY Lab](https://daisy.wpi.edu/) and the [WASH Research Group](https://www.wpi.edu/news/wpi-secures-28-million-develop-smartphone-app-help-assess-health-soldiers). 
+I am a tenure-track assistant professor of Computer Science at Worcester Polytechnic Institute (WPI). Prior to my faculty positio, I was a postdoctoral associate at MIT CSAIL in the [Healthy ML lab](https://healthyml.org/), hosted by [Professor Marzyeh Ghassemi](https://healthyml.org/marzyeh/). I earned my PhD at Worcester Polytechnic Institute (WPI), advised by Professor Rundensteiner and Professor Emmanuel Agu. 
+ <!-- At WPI I was part of [DAISY Lab](https://daisy.wpi.edu/) and the [WASH Research Group](https://www.wpi.edu/news/wpi-secures-28-million-develop-smartphone-app-help-assess-health-soldiers). 
 
  <!-- My research interests broadly relate to machine learning for missing and biased labels, generative modeling, and human activity
 recognition for mobile healthcare. I also have experience in algorithmic fairness, anomaly detection, data visualization,
 open set recognition, domain adaptation, and more.  -->
 
 ## Recent News
+- **July 25** Became a tenure-track assistant professor of Computer Science at Worcester Polytechnic Institute (WPI).
+- **July 25** One coathored paper on [how non-clinical information shapes clinical decisions in LLMs](https://dl.acm.org/doi/full/10.1145/3715275.3732121) accepted to FAccT 2025! 
 - **Jan 25:** One coauthored paper on [temporal label noise](https://arxiv.org/pdf/2402.04398) accepted to ICLR 2025! 
 - **Dec 24:** Presenting our work on [debiasing vision-language models](https://web3.arxiv.org/pdf/2411.04420) at NeurIPS, and coauthored work on [using generative models ot mitigate spurious correlations](https://arxiv.org/pdf/2411.10686) at ML4H.
 - **Dec 24:** Two coauthored papers accepted to AAAI 2025! 
