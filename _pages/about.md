@@ -22,8 +22,9 @@ recognition for mobile healthcare. I also have experience in algorithmic fairnes
 open set recognition, domain adaptation, and more.  -->
 
 ## Recent News
-- **July 25** Became a tenure-track assistant professor of Computer Science at Worcester Polytechnic Institute (WPI).
-- **July 25** One coathored paper on [how non-clinical information shapes clinical decisions in LLMs](https://dl.acm.org/doi/full/10.1145/3715275.3732121) accepted to FAccT 2025! 
+- **July 25:** Became a tenure-track assistant professor of Computer Science at Worcester Polytechnic Institute (WPI).
+- **July 25:** One coathored paper on [how non-clinical information shapes clinical decisions in LLMs](https://dl.acm.org/doi/full/10.1145/3715275.3732121) accepted to FAccT 2025! 
+- **May 25:** Serving as an Area Chair for NeurIPS 2025. 
 - **Jan 25:** One coauthored paper on [temporal label noise](https://arxiv.org/pdf/2402.04398) accepted to ICLR 2025! 
 - **Dec 24:** Presenting our work on [debiasing vision-language models](https://web3.arxiv.org/pdf/2411.04420) at NeurIPS, and coauthored work on [using generative models ot mitigate spurious correlations](https://arxiv.org/pdf/2411.10686) at ML4H.
 - **Dec 24:** Two coauthored papers accepted to AAAI 2025! 
